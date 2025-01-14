@@ -134,7 +134,7 @@ Textual Data Processing: Extracting valuable insights from unstructured data (e.
 
  
 
-Got it! Below is an integrated grant proposal for your land project, incorporating how the provided code, linear regression, and large language models (LLMs) can help track portfolios and capitalize on the land’s revenue. 
+Incorporating how the provided code, linear regression, and large language models (LLMs) can help track portfolios and capitalize on the land’s revenue. 
 
  
 
@@ -165,13 +165,7 @@ We will implement a Flask-based application integrated with the Yahoo Finance AP
 
 Tools Integration 
 
-1. Stock Data Tracking with Flask and Yahoo Finance API: 
-
-The Flask application will provide real-time stock data to monitor performance. The code below facilitates retrieving stock information, such as insider transactions, earnings, price history, and analyst targets. This data will guide investment decisions that directly benefit revenue generation from land projects.   
-
- 
-
-2. Portfolio Management Using Linear Regression 
+1.  Portfolio Management Using Linear Regression 
 Linear regression models will be used to predict the future performance of selected stocks. The following applications will be utilized: 
 
 Stock Price Forecasting: By training a linear regression model on historical stock data (e.g., closing prices, revenue, and earnings), we can forecast future stock prices. 
@@ -191,7 +185,7 @@ Revenue Projection: By analyzing past stock performance and market trends, we ca
  
  
 
-3. Enhancing Forecasting with Large Language Models (LLMs) 
+2. Enhancing Forecasting with Large Language Models (LLMs) 
 LLMs like GPT can be employed to analyze qualitative data and identify non-obvious trends that traditional models might miss. The use of LLMs in this project will allow for: 
 
 Sentiment Analysis: Analyzing financial news, reports, and earnings calls for market sentiment to forecast potential stock performance. 
